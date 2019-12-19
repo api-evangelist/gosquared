@@ -1,0 +1,92 @@
+{
+    "name": "GoSquared",
+    "description": "Turn visitors into customers with live chat and CRM software guaranteed to increase conversion.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/209-gosquared.jpg",
+    "tags": [
+        "api provider",
+        "api united kingdom",
+        "have api",
+        "target",
+        "webhook implementations",
+        "websites"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gosquared\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GoSquared",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/209-gosquared.jpg",
+            "humanURL": "https:\/\/www.gosquared.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gosquared-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gosquared-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.gosquared.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.gosquared.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "feed:\/\/feeds2.feedburner.com\/liquidicity"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gosquared"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/gosquared"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.gosquared.com\/developer"
+        },
+        {
+            "type": "Email",
+            "url": "support@gosquared.com"
+        },
+        {
+            "type": "Email",
+            "url": "dpo@gosquared.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/gosquared"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GoSquared"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/www.gosquared.com\/support\/articles\/1996494-webhooks"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.gosquared.com\/developer\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.gosquared.com"
+        }
+    ]
+}
